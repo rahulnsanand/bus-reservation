@@ -1,0 +1,86 @@
+body {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+	margin: 0px;
+	padding: 20px 10px 0px;
+         background: #FFF8C6;
+}
+.textfield {
+	font-size: 15px;
+	color: #333333;
+	background: #F7F7F7;
+	border: 1px solid #CCCCCC;
+	padding-left: 1px;
+}
+h1 {
+	color: #99CC00;
+	margin: 0px 0px 5px;
+	padding: 0px 0px 3px;
+	font: bold 18px Verdana, Arial, Helvetica, sans-serif;
+	border-bottom: 1px dashed #E6E8ED;
+}
+a {
+	color: #2D3954;
+	font-size: 11px;
+        text-decoration:none;
+}
+a:hover {
+	color: #99CC00;
+}
+.err {
+	color: #FF9900;
+}
+td {
+	font-weight: bold;
+	text-align: left;
+}
+
+	fieldset {
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		padding: 5px;
+		width:28%;
+		background-color: #F2EBDD;
+		text-align: center;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 11px;
+	}
+        Legend{
+                font-size:10pt;
+                color:#AD5900;
+                text-align:center;
+
+         }
+
+         .please {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+	margin: 0px;
+	padding: 20px 10px 0px;
+}
+
+
+.formbutton{
+cursor:pointer;
+border:outset 1px #ccc;
+background:#999;
+color:#666;
+font-weight:bold;
+padding: 1px 2px;
+background:url(images/formbg.gif) repeat-x left top;
+}
+
+
+
+li {
+    margin: 0;
+    list-style: square;
+    line-height: normal;
+    text-align:left;
+    font-size: 15px;
+   
+
+}
+
